@@ -13,6 +13,11 @@ body {
 	width:200px;
 	border:5px solid #333;
 }
+
+p {
+text-align:justify;
+}
+
 hr{
 	width:250px;
 	border-top:3px solid #999;
